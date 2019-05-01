@@ -1,5 +1,4 @@
 # coding: utf-8
-# author: Zehui J
 
 from gensim.models.keyedvectors import KeyedVectors
 from itertools import product
